@@ -24,3 +24,6 @@ output for observer program:
 * Your speed is under limits 68
 * driving at 81
 * Your should stop now ! 81
+
+# Class diagram image
+![alt tag](https://raw.githubusercontent.com/kuldarim/facade_observer/master/class_diagram.png)
